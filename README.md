@@ -7,4 +7,4 @@ This README, containing the table of contents.
 
 "Metadata," a .XML file containing the metadata for "FDIC Failed Bank List".
 
-"Compiled Report," a .PDF file containing a data and metadata profile, a repository profile, and additional considerations including a copyright license statement, preservation considerations, and recommended citation.
+"Compiled Report(1)," a .PDF file containing a data and metadata profile, a repository profile, and additional considerations including a copyright license statement, preservation considerations, and recommended citation.
