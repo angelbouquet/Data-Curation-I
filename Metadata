@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
->
-
-xmlns:dc="http://purl.org/dc/elements/1.1/">
+<xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:title>FDIC Failed Bank List</dc:title>
 <dc:creator>Federal Deposit Insurance Corportaion</dc:creator>
 <dc:subject>Economic</dc:subject>
